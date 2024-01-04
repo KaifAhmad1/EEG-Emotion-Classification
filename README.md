@@ -10,21 +10,9 @@ This dataset comprises EEG brainwave data collected from two individuals **`(1 m
 ### Stimuli for Emotion Elicitation
 The emotional states were evoked using specific stimuli, including scenes from movies such as "Marley and Me" for negative emotions and "La La Land" for positive emotions.
 
-### Usability and License
+### U License
 - Usability: 6.47
 - License: Data files are © Original Authors
-
-### Tags
-- Health
-- Psychology
-- Public Health
-- Healthcare
-- Mental Health
-
-### Usage Instructions
-1. Clone the repository.
-2. Install the required dependencies using `pip install -r requirements.txt`.
-3. Use the provided Jupyter Notebook or Python script for EEG signal classification.
 
 ## Model Architecture
 
