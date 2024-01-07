@@ -10,7 +10,7 @@ This dataset comprises EEG brainwave data collected from two individuals **`(1 m
 ### Stimuli for Emotion Elicitation
 The emotional states were evoked using specific stimuli, including scenes from movies such as "Marley and Me" for negative emotions and "La La Land" for positive emotions.
 
-### U License
+### License
 - Usability: 6.47
 - License: Data files are © Original Authors
 
