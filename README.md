@@ -1,4 +1,4 @@
-# Emotion Classification using LSTM and GRU with the Electroencephalography(EEG) Dataset:
+## Emotion Classification using LSTM and GRU with the Electroencephalography(EEG) Dataset:
 
 ## Objective
 The primary goal of this project is to classify EEG signals into emotional states using deep learning models, specifically Long Short-Term Memory (LSTM) and Gated Recurrent Unit (GRU).
