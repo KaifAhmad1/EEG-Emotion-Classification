@@ -71,10 +71,5 @@ The LSTM and GRU models demonstrate effectiveness in classifying EEG signals. Mo
 ### Next Steps
 Further tuning or exploration of different architectures to enhance model performance.
 
-### Usage
-1. Clone the repository.
-2. Install the required dependencies using `pip install -r requirements.txt`.
-3. Run the Jupyter Notebook or Python script for EEG signal classification.
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
